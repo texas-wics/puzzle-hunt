@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&display=swap');
+
+body {
+    background-image: url("../images/background.png");
+    background-color: #110F25;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #9EA5AA;
+}
+
+#moon {
+    width: 10vw;
+    height: 10vw;
+    margin-left: 21.4vw;
+    margin-top: 11.5vw;
+}
+
+#earth {
+    width: 16vw;
+    height: 16vw;
+    margin-left: 41.7vw;
+    margin-top: -7.2vw;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#instructions {
+    width: 40vw;
+    margin-left: 30vw;
+}
+
+#instructions h1 {
+    text-transform: uppercase;
+    font-family: 'Indie Flower', cursive;
+    font-size: 4vw;
+}
+
+#instructions p {
+    font-family: 'Open Sans', sans-serif;
+}

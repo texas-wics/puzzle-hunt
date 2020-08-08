@@ -38,8 +38,21 @@ img {
     text-transform: uppercase;
     font-family: 'Indie Flower', cursive;
     font-size: 4vw;
+    color: #EFF2F2;
+}
+
+#instructions h2 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 2vw;
+    margin: 0;
+    padding: 0;
+    color: #EFF2F2;
 }
 
 #instructions p {
     font-family: 'Open Sans', sans-serif;
+    font-size: 1.3vw;
+    margin: 0 0 2vw 0;
+    padding: 0;
+    color: #9EA5AA;
 }

@@ -29,6 +29,12 @@ img {
     height: auto;
 }
 
+#home {
+    width: 3vw;
+    margin-left: 25vw;
+    position: fixed;
+}
+
 #instructions {
     width: 40vw;
     margin-left: 30vw;

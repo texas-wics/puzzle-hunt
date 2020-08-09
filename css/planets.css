@@ -1,0 +1,69 @@
+#moon {
+    width: 16vw;
+    height: 16vw;
+    margin-left: 18.4vw;
+    margin-top: 8vw;
+}
+
+#earth {
+    width: 19vw;
+    height: 19vw;
+    margin-left: 38.7vw;
+    margin-top: -13.2vw;
+}
+
+#mars {
+    width: 17vw;
+    height: 17vw;
+    margin-left: 67.7vw;
+    margin-top: -12.2vw;
+}
+
+#venus {
+    width: 19vw;
+    height: 19vw;
+    margin-left: 15.7vw;
+    margin-top: -6.2vw;
+}
+
+#mercury {
+    width: 20vw;
+    height: 20vw;
+    margin-left: 4.7vw;
+    margin-top: 4.2vw;
+}
+
+#sun {
+    width: 28vw;
+    height: 28vw;
+    margin-left: 35.7vw;
+    margin-top: -28.2vw;
+}
+
+#jupiter {
+    width: 25vw;
+    height: 25vw;
+    margin-left: 71.7vw;
+    margin-top: -28.2vw;
+}
+
+#neptune {
+    width: 20vw;
+    height: 20vw;
+    margin-left: 10.7vw;
+    margin-top: 17.2vw;
+}
+
+#uranus {
+    width: 27vw;
+    height: 27vw;
+    margin-left: 36.7vw;
+    margin-top: -29.2vw;
+}
+
+#saturn {
+    width: 25vw;
+    height: 25vw;
+    margin-left: 68.7vw;
+    margin-top: -30.2vw;
+}

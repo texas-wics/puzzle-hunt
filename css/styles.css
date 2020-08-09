@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&display=swap');
 
 body {
@@ -10,18 +10,17 @@ body {
     color: #9EA5AA;
 }
 
-#moon {
-    width: 15vw;
-    height: 15vw;
-    margin-left: 21.4vw;
-    margin-top: 11.5vw;
-}
-
-#earth {
-    width: 18vw;
-    height: 18vw;
-    margin-left: 38.7vw;
-    margin-top: -9.2vw;
+#title {
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    top: 0;
+    left: 0;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 4vw;
+    color: #EFF2F2;
+    border-bottom: 0.3vh solid #eff2f2;
+    background: rgba(17, 15, 37, 0.9);
 }
 
 img {
@@ -46,13 +45,13 @@ img {
 
 #puzzle h1 {
     text-transform: uppercase;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Architects Daughter', cursive;
     font-size: 4vw;
     color: #EFF2F2;
 }
 
 #puzzle h2 {
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Architects Daughter', cursive;
     font-size: 2vw;
     margin: 0;
     padding: 0;
@@ -69,13 +68,13 @@ img {
 
 #instructions h1 {
     text-transform: uppercase;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Architects Daughter', cursive;
     font-size: 4vw;
     color: #EFF2F2;
 }
 
 #instructions h2 {
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Architects Daughter', cursive;
     font-size: 2vw;
     margin: 0;
     padding: 0;

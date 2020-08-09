@@ -5,7 +5,7 @@ body {
     background-image: url("../images/BACKGROUND.png");
     background-color: #110F25;
     background-position: center top;
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;*/
     background-size: cover;
     color: #9EA5AA;
 }
@@ -46,7 +46,7 @@ img {
 #puzzle h1 {
     text-transform: uppercase;
     font-family: 'Architects Daughter', cursive;
-    font-size: 4vw;
+    font-size: 3.8vw;
     color: #EFF2F2;
 }
 
@@ -87,4 +87,32 @@ img {
     margin: 0 0 2vw 0;
     padding: 0;
     color: #9EA5AA;
+}
+
+@media screen and (max-width: 1100px) {
+
+    #instructions, #puzzle {
+        width: 76vw;
+        background-color: #110F25;
+        margin-left: 10vw;
+        padding: 0vw 2vw;
+        border: 0.1vw solid #eff2f2;
+        margin-top: 2vw;
+        text-align: center;
+    }
+
+    #instructions p {
+        text-align: justify;
+    }
+
+    #puzzle p {
+        text-align: justify;
+    }
+
+    #home {
+        width: 3vw;
+        margin-left: 5vw;
+        position: fixed;
+    }
+
 }

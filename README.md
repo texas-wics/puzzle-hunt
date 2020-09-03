@@ -21,3 +21,7 @@ Neptune: eta picsium
 Mercury: extraterrestrial pokemon
 Venus: archon
 Moon: peruke
+
+### other notes
+the google form and leaderboard WILL break if someone tries to submit before 9/4/2020 17:00:00
+scores are higher the closer the submission is to that time

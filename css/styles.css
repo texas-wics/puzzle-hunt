@@ -66,6 +66,10 @@ img {
     color: #9EA5AA;
 }
 
+#attribution {
+    opacity: 0 !important;
+}
+
 #instructions h1 {
     text-transform: uppercase;
     font-family: 'Architects Daughter', cursive;

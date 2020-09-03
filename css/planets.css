@@ -1,6 +1,6 @@
-#moon {
-    width: 16vw;
-    height: 16vw;
+#rocket {
+    width: 18vw;
+    height: 18vw;
     margin-left: 18.4vw;
     margin-top: 8vw;
 }
@@ -66,4 +66,11 @@
     height: 25vw;
     margin-left: 68.7vw;
     margin-top: -30.2vw;
+}
+
+#moon {
+    width: 15vw;
+    height: 15vw;
+    margin-left: 3.7vw;
+    margin-top: -90.2vw;
 }

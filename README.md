@@ -5,7 +5,7 @@ Earth: anita borg
 Mars: algorithm  
 Jupiter: infinity  
 Saturn: send help  
-Uranus: eta picsium  
+Uranus: eta piscium  
 Neptune: extraterrestrial pokemon  
 Mercury: archon  
 Venus: peruke  
@@ -17,7 +17,7 @@ Mars: anita borg
 Jupiter: algorithm  
 Saturn: infinity  
 Uranus: send help  
-Neptune: eta picsium  
+Neptune: eta piscium  
 Mercury: extraterrestrial pokemon  
 Venus: archon  
 Moon: peruke  
